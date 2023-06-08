@@ -25,3 +25,12 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+#Name {
+  font-family: monospace;
+  font-size: larger;
+}
+
+h2 {
+  font-weight: 800;
+}
